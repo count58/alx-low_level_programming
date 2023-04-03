@@ -2,7 +2,7 @@
 /**
  * print_chessboard - entry point
  * @a: array
- * Return: always 0
+ * Return: Always 0
  */
 void print_chessboard(char (*a)[8])
 {
